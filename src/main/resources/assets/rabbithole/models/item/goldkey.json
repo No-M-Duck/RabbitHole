@@ -1,0 +1,7 @@
+{
+  "_comment" : "parent отвечает за отображение предмета(подобно яблоку), затем мы указываем текстуру и путь к ней",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rabbithole:item/goldkey"
+  }
+}
